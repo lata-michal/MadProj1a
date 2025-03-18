@@ -1,0 +1,33 @@
+1. Analiza danych:
+	- Wyświetlenie informacji o kolumnach
+	- Wyświetlenie średnich, min-max itp.
+	- Wybór zmiennych do analizy
+	- Sprawdzenie pustych wartości i ich obsłużenie
+	- Sprawdzenie wartości odstających i ich obsłużenie
+	- Korelacje
+	- Podstawowe wykresy (szukanie zależności, rozkład normalny itp.)
+	- Podział na stymulanty i destymulanty
+	- Jakieś opisy
+
+2. Budowa modelu:
+	- Zamiana danych kategorycznych na liczbowe
+	- Skalowanie danych
+	- Zastosowanie dwóch różnych algorytmów clusteringu
+	- Wybranie odpowiedniej ilości clustrów (jeśli jest wymagana)
+	- Porównanie modeli
+	- Wnioskowanie na jakie grupy dane zostały podzielone
+	- Ocena wydajności modelu
+	- Wykresy, opisy
+
+3. Część pisemna:
+	- Tytuł
+	- Autorzy
+	- Streszczenie (maks 150 słów)
+	- Słowa kluczowe (Spis treści?)
+	- Wprowadzenie
+	- Cel i zakres badania
+	- Cytowania z literatury
+	- Opis metod ze wzorami plus opis oznaczeń
+	- Omówienie wyników
+	- Podsumowanie
+	- Bibliografia
